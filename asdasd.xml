@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <soap:Body>
+      <ALISEntegKodlariResponse xmlns="http://tempuri.org/">
+         <ALISEntegKodlariResult>
+            <islemSonuc>
+               <Res>1</Res>
+               <OrnekNo>0</OrnekNo>
+               <HataMesaji />
+               <UyarıMesaji />
+            </islemSonuc>
+            <EntegKodArr>
+               <EntegKodlar>
+                  <TEST_ID>590</TEST_ID>
+                  <TEST_KISA_ADI>HbS</TEST_KISA_ADI>
+                  <TEST_ADI>HbS</TEST_ADI>
+                  <ENTEG_KODU>90469105</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>20</TEST_ID>
+                  <TEST_KISA_ADI>RF</TEST_KISA_ADI>
+                  <TEST_ADI>Romatoid faktor (Türbidimetrik)</TEST_ADI>
+                  <ENTEG_KODU>903380</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>561</TEST_ID>
+                  <TEST_KISA_ADI>MONO# (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>MONO#</TEST_ADI>
+                  <ENTEG_KODU>90162104</ENTEG_KODU>
+                  <ENTEG_KODU2>3</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>570</TEST_ID>
+                  <TEST_KISA_ADI>HGB (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>HGB</TEST_ADI>
+                  <ENTEG_KODU>90162112</ENTEG_KODU>
+                  <ENTEG_KODU2>11</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>14</TEST_ID>
+                  <TEST_KISA_ADI>UIBC</TEST_KISA_ADI>
+                  <TEST_ADI>UIBC</TEST_ADI>
+                  <ENTEG_KODU>90104001</ENTEG_KODU>
+                  <ENTEG_KODU2>1</ENTEG_KODU2>
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>29</TEST_ID>
+                  <TEST_KISA_ADI>WBC</TEST_KISA_ADI>
+                  <TEST_ADI>WBC</TEST_ADI>
+                  <ENTEG_KODU>90162001</ENTEG_KODU>
+                  <ENTEG_KODU2>0</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>18</TEST_ID>
+                  <TEST_KISA_ADI>ASO</TEST_KISA_ADI>
+                  <TEST_ADI>ASO</TEST_ADI>
+                  <ENTEG_KODU>900570</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>581</TEST_ID>
+                  <TEST_KISA_ADI>ALY% (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>ALY%</TEST_ADI>
+                  <ENTEG_KODU>90162123</ENTEG_KODU>
+                  <ENTEG_KODU2>22</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>591</TEST_ID>
+                  <TEST_KISA_ADI>HbC</TEST_KISA_ADI>
+                  <TEST_ADI>HbC</TEST_ADI>
+                  <ENTEG_KODU>90469106</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>9</TEST_ID>
+                  <TEST_KISA_ADI>GGT</TEST_KISA_ADI>
+                  <TEST_ADI>GGT</TEST_ADI>
+                  <ENTEG_KODU>901390</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>52</TEST_ID>
+                  <TEST_KISA_ADI>Serbest T4</TEST_KISA_ADI>
+                  <TEST_ADI>Serbest T4</TEST_ADI>
+                  <ENTEG_KODU>903480</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>107</TEST_ID>
+                  <TEST_KISA_ADI>Beta-hCG</TEST_KISA_ADI>
+                  <TEST_ADI>Beta-hCG</TEST_ADI>
+                  <ENTEG_KODU>900650</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>594</TEST_ID>
+                  <TEST_KISA_ADI>O</TEST_KISA_ADI>
+                  <TEST_ADI>O</TEST_ADI>
+                  <ENTEG_KODU>90469109</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>592</TEST_ID>
+                  <TEST_KISA_ADI>HbD</TEST_KISA_ADI>
+                  <TEST_ADI>HbD</TEST_ADI>
+                  <ENTEG_KODU>90469107</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>41</TEST_ID>
+                  <TEST_KISA_ADI>HGB</TEST_KISA_ADI>
+                  <TEST_ADI>HGB</TEST_ADI>
+                  <ENTEG_KODU>90162013</ENTEG_KODU>
+                  <ENTEG_KODU2>12</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>130</TEST_ID>
+                  <TEST_KISA_ADI>Kan Grubu</TEST_KISA_ADI>
+                  <TEST_ADI>Kan Grubu</TEST_ADI>
+                  <ENTEG_KODU>705130</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>12</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>573</TEST_ID>
+                  <TEST_KISA_ADI>MCH (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>MCH</TEST_ADI>
+                  <ENTEG_KODU>90162115</ENTEG_KODU>
+                  <ENTEG_KODU2>14</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>582</TEST_ID>
+                  <TEST_KISA_ADI>LIC# (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>LIC#</TEST_ADI>
+                  <ENTEG_KODU>90162124</ENTEG_KODU>
+                  <ENTEG_KODU2>23</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>4</TEST_ID>
+                  <TEST_KISA_ADI>LDL Kolesterol</TEST_KISA_ADI>
+                  <TEST_ADI>LDL Kolesterol</TEST_ADI>
+                  <ENTEG_KODU>902290</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>578</TEST_ID>
+                  <TEST_KISA_ADI>PCT (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>PCT</TEST_ADI>
+                  <ENTEG_KODU>90162120</ENTEG_KODU>
+                  <ENTEG_KODU2>19</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>562</TEST_ID>
+                  <TEST_KISA_ADI>EOS# (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>EOS#</TEST_ADI>
+                  <ENTEG_KODU>90162105</ENTEG_KODU>
+                  <ENTEG_KODU2>4</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>25</TEST_ID>
+                  <TEST_KISA_ADI>Potasyum</TEST_KISA_ADI>
+                  <TEST_ADI>Potasyum</TEST_ADI>
+                  <ENTEG_KODU>903130</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>24</TEST_ID>
+                  <TEST_KISA_ADI>Sodyum</TEST_KISA_ADI>
+                  <TEST_ADI>Sodyum</TEST_ADI>
+                  <ENTEG_KODU>903670</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>569</TEST_ID>
+                  <TEST_KISA_ADI>RBC (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>RBC</TEST_ADI>
+                  <ENTEG_KODU>90162111</ENTEG_KODU>
+                  <ENTEG_KODU2>10</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>564</TEST_ID>
+                  <TEST_KISA_ADI>NEUT% (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>NEUT%</TEST_ADI>
+                  <ENTEG_KODU>90162107</ENTEG_KODU>
+                  <ENTEG_KODU2>6</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>528</TEST_ID>
+                  <TEST_KISA_ADI>ALY%</TEST_KISA_ADI>
+                  <TEST_ADI>ALY%</TEST_ADI>
+                  <ENTEG_KODU>90162024</ENTEG_KODU>
+                  <ENTEG_KODU2>23</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>530</TEST_ID>
+                  <TEST_KISA_ADI>LIC%</TEST_KISA_ADI>
+                  <TEST_ADI>LIC%</TEST_ADI>
+                  <ENTEG_KODU>90162026</ENTEG_KODU>
+                  <ENTEG_KODU2>25</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>36</TEST_ID>
+                  <TEST_KISA_ADI>LYM%</TEST_KISA_ADI>
+                  <TEST_ADI>LYM%</TEST_ADI>
+                  <ENTEG_KODU>90162008</ENTEG_KODU>
+                  <ENTEG_KODU2>7</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>574</TEST_ID>
+                  <TEST_KISA_ADI>MCHC (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>MCHC</TEST_ADI>
+                  <ENTEG_KODU>90162116</ENTEG_KODU>
+                  <ENTEG_KODU2>15</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>22</TEST_ID>
+                  <TEST_KISA_ADI>Total Protein</TEST_KISA_ADI>
+                  <TEST_ADI>Total Protein</TEST_ADI>
+                  <ENTEG_KODU>903240</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>26</TEST_ID>
+                  <TEST_KISA_ADI>Klor</TEST_KISA_ADI>
+                  <TEST_ADI>Klor</TEST_ADI>
+                  <ENTEG_KODU>902090</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>12</TEST_ID>
+                  <TEST_KISA_ADI>Kreatinin</TEST_KISA_ADI>
+                  <TEST_ADI>Kreatinin</TEST_ADI>
+                  <ENTEG_KODU>902210</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>19</TEST_ID>
+                  <TEST_KISA_ADI>CRP</TEST_KISA_ADI>
+                  <TEST_ADI>CRP (Türbidimetrik)</TEST_ADI>
+                  <ENTEG_KODU>900900</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>55</TEST_ID>
+                  <TEST_KISA_ADI>B12</TEST_KISA_ADI>
+                  <TEST_ADI>B12</TEST_ADI>
+                  <ENTEG_KODU>904150</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>59</TEST_ID>
+                  <TEST_KISA_ADI>Anti HCV</TEST_KISA_ADI>
+                  <TEST_ADI>Anti HCV</TEST_ADI>
+                  <ENTEG_KODU>906630</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>42</TEST_ID>
+                  <TEST_KISA_ADI>HCT</TEST_KISA_ADI>
+                  <TEST_ADI>HCT</TEST_ADI>
+                  <ENTEG_KODU>90162014</ENTEG_KODU>
+                  <ENTEG_KODU2>13</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>60</TEST_ID>
+                  <TEST_KISA_ADI>Anti HIV</TEST_KISA_ADI>
+                  <TEST_ADI>Anti HIV</TEST_ADI>
+                  <ENTEG_KODU>906670</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>126</TEST_ID>
+                  <TEST_KISA_ADI>Anti HIV(Kart Test)</TEST_KISA_ADI>
+                  <TEST_ADI>Anti HIV(Kart Test)</TEST_ADI>
+                  <ENTEG_KODU>907590</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>95</TEST_ID>
+                  <TEST_KISA_ADI>CK</TEST_KISA_ADI>
+                  <TEST_ADI>CK</TEST_ADI>
+                  <ENTEG_KODU>902190</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>580</TEST_ID>
+                  <TEST_KISA_ADI>ALY# (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>ALY#</TEST_ADI>
+                  <ENTEG_KODU>90162122</ENTEG_KODU>
+                  <ENTEG_KODU2>21</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>622</TEST_ID>
+                  <TEST_KISA_ADI>Anti HBc IgM</TEST_KISA_ADI>
+                  <TEST_ADI>Anti HBc IgM</TEST_ADI>
+                  <ENTEG_KODU>906570</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>549</TEST_ID>
+                  <TEST_KISA_ADI>fPSA</TEST_KISA_ADI>
+                  <TEST_ADI>PSA(Free)</TEST_ADI>
+                  <ENTEG_KODU>903280</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>49</TEST_ID>
+                  <TEST_KISA_ADI>PCT</TEST_KISA_ADI>
+                  <TEST_ADI>PCT</TEST_ADI>
+                  <ENTEG_KODU>90162021</ENTEG_KODU>
+                  <ENTEG_KODU2>20</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>50</TEST_ID>
+                  <TEST_KISA_ADI>PDW</TEST_KISA_ADI>
+                  <TEST_ADI>PDW</TEST_ADI>
+                  <ENTEG_KODU>90162022</ENTEG_KODU>
+                  <ENTEG_KODU2>21</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>30</TEST_ID>
+                  <TEST_KISA_ADI>NEUT#</TEST_KISA_ADI>
+                  <TEST_ADI>NEUT#</TEST_ADI>
+                  <ENTEG_KODU>90162002</ENTEG_KODU>
+                  <ENTEG_KODU2>1</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>558</TEST_ID>
+                  <TEST_KISA_ADI>WBC (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>WBC</TEST_ADI>
+                  <ENTEG_KODU>90162101</ENTEG_KODU>
+                  <ENTEG_KODU2>0</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>567</TEST_ID>
+                  <TEST_KISA_ADI>EOS% (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>EOS%</TEST_ADI>
+                  <ENTEG_KODU>90162109</ENTEG_KODU>
+                  <ENTEG_KODU2>8</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>568</TEST_ID>
+                  <TEST_KISA_ADI>BASO% (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>BASO%</TEST_ADI>
+                  <ENTEG_KODU>90162110</ENTEG_KODU>
+                  <ENTEG_KODU2>9</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>559</TEST_ID>
+                  <TEST_KISA_ADI>NEUT# (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>NEUT#</TEST_ADI>
+                  <ENTEG_KODU>90162102</ENTEG_KODU>
+                  <ENTEG_KODU2>1</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>44</TEST_ID>
+                  <TEST_KISA_ADI>MCH</TEST_KISA_ADI>
+                  <TEST_ADI>MCH</TEST_ADI>
+                  <ENTEG_KODU>90162016</ENTEG_KODU>
+                  <ENTEG_KODU2>15</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>48</TEST_ID>
+                  <TEST_KISA_ADI>MPV</TEST_KISA_ADI>
+                  <TEST_ADI>MPV</TEST_ADI>
+                  <ENTEG_KODU>90162020</ENTEG_KODU>
+                  <ENTEG_KODU2>19</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>37</TEST_ID>
+                  <TEST_KISA_ADI>MONO%</TEST_KISA_ADI>
+                  <TEST_ADI>MONO%</TEST_ADI>
+                  <ENTEG_KODU>90162009</ENTEG_KODU>
+                  <ENTEG_KODU2>8</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>529</TEST_ID>
+                  <TEST_KISA_ADI>LIC#</TEST_KISA_ADI>
+                  <TEST_ADI>LIC#</TEST_ADI>
+                  <ENTEG_KODU>90162025</ENTEG_KODU>
+                  <ENTEG_KODU2>24</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>572</TEST_ID>
+                  <TEST_KISA_ADI>MCV (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>MCV</TEST_ADI>
+                  <ENTEG_KODU>90162114</ENTEG_KODU>
+                  <ENTEG_KODU2>13</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>583</TEST_ID>
+                  <TEST_KISA_ADI>LIC% (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>LIC%</TEST_ADI>
+                  <ENTEG_KODU>90162125</ENTEG_KODU>
+                  <ENTEG_KODU2>24</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>560</TEST_ID>
+                  <TEST_KISA_ADI>LYM# (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>LYM#</TEST_ADI>
+                  <ENTEG_KODU>90162103</ENTEG_KODU>
+                  <ENTEG_KODU2>2</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>563</TEST_ID>
+                  <TEST_KISA_ADI>BASO# (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>BASO#</TEST_ADI>
+                  <ENTEG_KODU>90162106</ENTEG_KODU>
+                  <ENTEG_KODU2>5</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>46</TEST_ID>
+                  <TEST_KISA_ADI>RDW-CV</TEST_KISA_ADI>
+                  <TEST_ADI>RDW-CV</TEST_ADI>
+                  <ENTEG_KODU>90162018</ENTEG_KODU>
+                  <ENTEG_KODU2>17</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>47</TEST_ID>
+                  <TEST_KISA_ADI>PLT</TEST_KISA_ADI>
+                  <TEST_ADI>PLT</TEST_ADI>
+                  <ENTEG_KODU>90162019</ENTEG_KODU>
+                  <ENTEG_KODU2>18</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>576</TEST_ID>
+                  <TEST_KISA_ADI>PLT (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>PLT</TEST_ADI>
+                  <ENTEG_KODU>90162118</ENTEG_KODU>
+                  <ENTEG_KODU2>17</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>579</TEST_ID>
+                  <TEST_KISA_ADI>PDW (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>PDW</TEST_ADI>
+                  <ENTEG_KODU>90162121</ENTEG_KODU>
+                  <ENTEG_KODU2>20</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>23</TEST_ID>
+                  <TEST_KISA_ADI>Amilaz</TEST_KISA_ADI>
+                  <TEST_ADI>Amilaz</TEST_ADI>
+                  <ENTEG_KODU>900370</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>43</TEST_ID>
+                  <TEST_KISA_ADI>MCV</TEST_KISA_ADI>
+                  <TEST_ADI>MCV</TEST_ADI>
+                  <ENTEG_KODU>90162015</ENTEG_KODU>
+                  <ENTEG_KODU2>14</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>546</TEST_ID>
+                  <TEST_KISA_ADI>Total IgE</TEST_KISA_ADI>
+                  <TEST_ADI>Total IgE</TEST_ADI>
+                  <ENTEG_KODU>903890</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>35</TEST_ID>
+                  <TEST_KISA_ADI>NEUT%</TEST_KISA_ADI>
+                  <TEST_ADI>NEUT%</TEST_ADI>
+                  <ENTEG_KODU>90162007</ENTEG_KODU>
+                  <ENTEG_KODU2>6</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>39</TEST_ID>
+                  <TEST_KISA_ADI>BASO%</TEST_KISA_ADI>
+                  <TEST_ADI>BASO%</TEST_ADI>
+                  <ENTEG_KODU>90162011</ENTEG_KODU>
+                  <ENTEG_KODU2>10</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>32</TEST_ID>
+                  <TEST_KISA_ADI>MONO#</TEST_KISA_ADI>
+                  <TEST_ADI>MONO#</TEST_ADI>
+                  <ENTEG_KODU>90162004</ENTEG_KODU>
+                  <ENTEG_KODU2>3</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>33</TEST_ID>
+                  <TEST_KISA_ADI>EOS#</TEST_KISA_ADI>
+                  <TEST_ADI>EOS#</TEST_ADI>
+                  <ENTEG_KODU>90162005</ENTEG_KODU>
+                  <ENTEG_KODU2>4</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>527</TEST_ID>
+                  <TEST_KISA_ADI>ALY#</TEST_KISA_ADI>
+                  <TEST_ADI>ALY#</TEST_ADI>
+                  <ENTEG_KODU>90162023</ENTEG_KODU>
+                  <ENTEG_KODU2>22</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>571</TEST_ID>
+                  <TEST_KISA_ADI>HCT (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>HCT</TEST_ADI>
+                  <ENTEG_KODU>90162113</ENTEG_KODU>
+                  <ENTEG_KODU2>12</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>575</TEST_ID>
+                  <TEST_KISA_ADI>RDW-CV (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>RDW-CV</TEST_ADI>
+                  <ENTEG_KODU>90162117</ENTEG_KODU>
+                  <ENTEG_KODU2>16</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>548</TEST_ID>
+                  <TEST_KISA_ADI>Anti HBc IgG</TEST_KISA_ADI>
+                  <TEST_ADI>Anti HBc IgG</TEST_ADI>
+                  <ENTEG_KODU>906550</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>626</TEST_ID>
+                  <TEST_KISA_ADI>Anti HAV IgM</TEST_KISA_ADI>
+                  <TEST_ADI>Anti HAV IgM</TEST_ADI>
+                  <ENTEG_KODU>906540</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>6</TEST_ID>
+                  <TEST_KISA_ADI>Trigliserit</TEST_KISA_ADI>
+                  <TEST_ADI>Trigliserit</TEST_ADI>
+                  <ENTEG_KODU>903990</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>98</TEST_ID>
+                  <TEST_KISA_ADI>Magnezyum</TEST_KISA_ADI>
+                  <TEST_ADI>Magnezyum</TEST_ADI>
+                  <ENTEG_KODU>902420</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>57</TEST_ID>
+                  <TEST_KISA_ADI>HBsAg</TEST_KISA_ADI>
+                  <TEST_ADI>HBsAg</TEST_ADI>
+                  <ENTEG_KODU>907450</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>13</TEST_ID>
+                  <TEST_KISA_ADI>Demir</TEST_KISA_ADI>
+                  <TEST_ADI>Demir ( Serum )</TEST_ADI>
+                  <ENTEG_KODU>901020</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>61</TEST_ID>
+                  <TEST_KISA_ADI>Üre</TEST_KISA_ADI>
+                  <TEST_ADI>Üre</TEST_ADI>
+                  <ENTEG_KODU>901940</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>11</TEST_ID>
+                  <TEST_KISA_ADI>Ürik Asit</TEST_KISA_ADI>
+                  <TEST_ADI>Ürik Asit</TEST_ADI>
+                  <ENTEG_KODU>904120</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>21</TEST_ID>
+                  <TEST_KISA_ADI>Albumin</TEST_KISA_ADI>
+                  <TEST_ADI>Albumin</TEST_ADI>
+                  <ENTEG_KODU>900210</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>80</TEST_ID>
+                  <TEST_KISA_ADI>Fosfor</TEST_KISA_ADI>
+                  <TEST_ADI>Fosfor</TEST_ADI>
+                  <ENTEG_KODU>901260</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>533</TEST_ID>
+                  <TEST_KISA_ADI>% HBA1C</TEST_KISA_ADI>
+                  <TEST_ADI>% HBA1C</TEST_ADI>
+                  <ENTEG_KODU>90146001</ENTEG_KODU>
+                  <ENTEG_KODU2>1</ENTEG_KODU2>
+                  <UNITE_ID>16</UNITE_ID>
+                  <UNITE_ADI>HbA1C</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>17</TEST_ID>
+                  <TEST_KISA_ADI>Direkt Bilirubin</TEST_KISA_ADI>
+                  <TEST_ADI>Direkt Bilirubin</TEST_ADI>
+                  <ENTEG_KODU>900690.0</ENTEG_KODU>
+                  <ENTEG_KODU2>0</ENTEG_KODU2>
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>104</TEST_ID>
+                  <TEST_KISA_ADI>Kalsiyum</TEST_KISA_ADI>
+                  <TEST_ADI>Kalsiyum</TEST_ADI>
+                  <ENTEG_KODU>901910</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>631</TEST_ID>
+                  <TEST_KISA_ADI>Folik Asit</TEST_KISA_ADI>
+                  <TEST_ADI>Folik Asit</TEST_ADI>
+                  <ENTEG_KODU>901240</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>627</TEST_ID>
+                  <TEST_KISA_ADI>FSH</TEST_KISA_ADI>
+                  <TEST_ADI>FSH</TEST_ADI>
+                  <ENTEG_KODU>901280</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>106</TEST_ID>
+                  <TEST_KISA_ADI>TPSA</TEST_KISA_ADI>
+                  <TEST_ADI>PSA(Total)</TEST_ADI>
+                  <ENTEG_KODU>903220</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>54</TEST_ID>
+                  <TEST_KISA_ADI>Ferritin</TEST_KISA_ADI>
+                  <TEST_ADI>Ferritin</TEST_ADI>
+                  <ENTEG_KODU>901220</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>625</TEST_ID>
+                  <TEST_KISA_ADI>Anti HAV IgG</TEST_KISA_ADI>
+                  <TEST_ADI>Anti HAV IgG</TEST_ADI>
+                  <ENTEG_KODU>906520</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>535</TEST_ID>
+                  <TEST_KISA_ADI>A1c</TEST_KISA_ADI>
+                  <TEST_ADI>A1c</TEST_ADI>
+                  <ENTEG_KODU>90146003</ENTEG_KODU>
+                  <ENTEG_KODU2>3</ENTEG_KODU2>
+                  <UNITE_ID>16</UNITE_ID>
+                  <UNITE_ADI>HbA1C</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>537</TEST_ID>
+                  <TEST_KISA_ADI>HbF</TEST_KISA_ADI>
+                  <TEST_ADI>HbF</TEST_ADI>
+                  <ENTEG_KODU>90469101</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>540</TEST_ID>
+                  <TEST_KISA_ADI>Not</TEST_KISA_ADI>
+                  <TEST_ADI>Not</TEST_ADI>
+                  <ENTEG_KODU>90469104</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>538</TEST_ID>
+                  <TEST_KISA_ADI>Ao</TEST_KISA_ADI>
+                  <TEST_ADI>Ao</TEST_ADI>
+                  <ENTEG_KODU>90469102</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>586</TEST_ID>
+                  <TEST_KISA_ADI>HbC (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>HbC</TEST_ADI>
+                  <ENTEG_KODU>90469006</ENTEG_KODU>
+                  <ENTEG_KODU2>06</ENTEG_KODU2>
+                  <UNITE_ID>19</UNITE_ID>
+                  <UNITE_ADI>Evlilik Talasemi</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>585</TEST_ID>
+                  <TEST_KISA_ADI>HbS (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>HbS</TEST_ADI>
+                  <ENTEG_KODU>90469005</ENTEG_KODU>
+                  <ENTEG_KODU2>05</ENTEG_KODU2>
+                  <UNITE_ID>19</UNITE_ID>
+                  <UNITE_ADI>Evlilik Talasemi</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>555</TEST_ID>
+                  <TEST_KISA_ADI>Ao (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>Ao</TEST_ADI>
+                  <ENTEG_KODU>90469002</ENTEG_KODU>
+                  <ENTEG_KODU2>02</ENTEG_KODU2>
+                  <UNITE_ID>19</UNITE_ID>
+                  <UNITE_ADI>Evlilik Talasemi</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>101</TEST_ID>
+                  <TEST_KISA_ADI>TDBK</TEST_KISA_ADI>
+                  <TEST_ADI>Total Demir Bağlama Kapasitesi</TEST_ADI>
+                  <ENTEG_KODU>90104002</ENTEG_KODU>
+                  <ENTEG_KODU2>2</ENTEG_KODU2>
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>3</TEST_ID>
+                  <TEST_KISA_ADI>HDL</TEST_KISA_ADI>
+                  <TEST_ADI>HDL Kolesterol</TEST_ADI>
+                  <ENTEG_KODU>901580</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>2</TEST_ID>
+                  <TEST_KISA_ADI>Kolesterol</TEST_KISA_ADI>
+                  <TEST_ADI>Kolesterol</TEST_ADI>
+                  <ENTEG_KODU>902110</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>534</TEST_ID>
+                  <TEST_KISA_ADI>Hb</TEST_KISA_ADI>
+                  <TEST_ADI>Hb</TEST_ADI>
+                  <ENTEG_KODU>90146002</ENTEG_KODU>
+                  <ENTEG_KODU2>2</ENTEG_KODU2>
+                  <UNITE_ID>16</UNITE_ID>
+                  <UNITE_ADI>HbA1C</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>1</TEST_ID>
+                  <TEST_KISA_ADI>Glukoz</TEST_KISA_ADI>
+                  <TEST_ADI>Glukoz</TEST_ADI>
+                  <ENTEG_KODU>901500</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>8</TEST_ID>
+                  <TEST_KISA_ADI>AST</TEST_KISA_ADI>
+                  <TEST_ADI>AST</TEST_ADI>
+                  <ENTEG_KODU>900580</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>51</TEST_ID>
+                  <TEST_KISA_ADI>Serbest T3</TEST_KISA_ADI>
+                  <TEST_ADI>Serbest T3</TEST_ADI>
+                  <ENTEG_KODU>903470</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>53</TEST_ID>
+                  <TEST_KISA_ADI>TSH</TEST_KISA_ADI>
+                  <TEST_ADI>TSH</TEST_ADI>
+                  <ENTEG_KODU>904030</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>97</TEST_ID>
+                  <TEST_KISA_ADI>LDH</TEST_KISA_ADI>
+                  <TEST_ADI>LDH</TEST_ADI>
+                  <ENTEG_KODU>902260</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>7</TEST_ID>
+                  <TEST_KISA_ADI>ALT</TEST_KISA_ADI>
+                  <TEST_ADI>ALT</TEST_ADI>
+                  <ENTEG_KODU>900200</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>5</TEST_ID>
+                  <TEST_KISA_ADI>VLDL</TEST_KISA_ADI>
+                  <TEST_ADI>VLDL</TEST_ADI>
+                  <ENTEG_KODU>902291</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>667</TEST_ID>
+                  <TEST_KISA_ADI>PTH</TEST_KISA_ADI>
+                  <TEST_ADI>PTH</TEST_ADI>
+                  <ENTEG_KODU>902980</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>668</TEST_ID>
+                  <TEST_KISA_ADI>Vitamin D Total</TEST_KISA_ADI>
+                  <TEST_ADI>Vitamin D Total</TEST_ADI>
+                  <ENTEG_KODU>900010</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>661</TEST_ID>
+                  <TEST_KISA_ADI>HBA1C (IFCC)</TEST_KISA_ADI>
+                  <TEST_ADI>HBA1C (IFCC)</TEST_ADI>
+                  <ENTEG_KODU>90146004</ENTEG_KODU>
+                  <ENTEG_KODU2>4</ENTEG_KODU2>
+                  <UNITE_ID>16</UNITE_ID>
+                  <UNITE_ADI>HbA1C</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>587</TEST_ID>
+                  <TEST_KISA_ADI>HbD (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>HbD</TEST_ADI>
+                  <ENTEG_KODU>90469007</ENTEG_KODU>
+                  <ENTEG_KODU2>07</ENTEG_KODU2>
+                  <UNITE_ID>19</UNITE_ID>
+                  <UNITE_ADI>Evlilik Talasemi</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>593</TEST_ID>
+                  <TEST_KISA_ADI>HbE</TEST_KISA_ADI>
+                  <TEST_ADI>HbE</TEST_ADI>
+                  <ENTEG_KODU>90469108</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>15</TEST_ID>
+                  <TEST_KISA_ADI>Total Bilirubin</TEST_KISA_ADI>
+                  <TEST_ADI>Total Bilirubin</TEST_ADI>
+                  <ENTEG_KODU>900690.2</ENTEG_KODU>
+                  <ENTEG_KODU2>2</ENTEG_KODU2>
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>647</TEST_ID>
+                  <TEST_KISA_ADI>ValueHbA1c</TEST_KISA_ADI>
+                  <TEST_ADI>ValueHbA1c</TEST_ADI>
+                  <ENTEG_KODU>90469110</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>648</TEST_ID>
+                  <TEST_KISA_ADI>PeakHbA1ab</TEST_KISA_ADI>
+                  <TEST_ADI>PeakHbA1ab</TEST_ADI>
+                  <ENTEG_KODU>90469111</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>45</TEST_ID>
+                  <TEST_KISA_ADI>MCHC</TEST_KISA_ADI>
+                  <TEST_ADI>MCHC</TEST_ADI>
+                  <ENTEG_KODU>90162017</ENTEG_KODU>
+                  <ENTEG_KODU2>16</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>38</TEST_ID>
+                  <TEST_KISA_ADI>EOS%</TEST_KISA_ADI>
+                  <TEST_ADI>EOS%</TEST_ADI>
+                  <ENTEG_KODU>90162010</ENTEG_KODU>
+                  <ENTEG_KODU2>9</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>31</TEST_ID>
+                  <TEST_KISA_ADI>LYM#</TEST_KISA_ADI>
+                  <TEST_ADI>LYM#</TEST_ADI>
+                  <ENTEG_KODU>90162003</ENTEG_KODU>
+                  <ENTEG_KODU2>2</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>34</TEST_ID>
+                  <TEST_KISA_ADI>BASO#</TEST_KISA_ADI>
+                  <TEST_ADI>BASO#</TEST_ADI>
+                  <ENTEG_KODU>90162006</ENTEG_KODU>
+                  <ENTEG_KODU2>5</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>584</TEST_ID>
+                  <TEST_KISA_ADI>RDW-SD (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>RDW-SD</TEST_ADI>
+                  <ENTEG_KODU>90162126</ENTEG_KODU>
+                  <ENTEG_KODU2>25</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>577</TEST_ID>
+                  <TEST_KISA_ADI>MPV (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>MPV</TEST_ADI>
+                  <ENTEG_KODU>90162119</ENTEG_KODU>
+                  <ENTEG_KODU2>18</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>565</TEST_ID>
+                  <TEST_KISA_ADI>LYM% (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>LYM%</TEST_ADI>
+                  <ENTEG_KODU>90162107</ENTEG_KODU>
+                  <ENTEG_KODU2>26</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>588</TEST_ID>
+                  <TEST_KISA_ADI>HbE (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>HbE</TEST_ADI>
+                  <ENTEG_KODU>90469008</ENTEG_KODU>
+                  <ENTEG_KODU2>08</ENTEG_KODU2>
+                  <UNITE_ID>19</UNITE_ID>
+                  <UNITE_ADI>Evlilik Talasemi</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>566</TEST_ID>
+                  <TEST_KISA_ADI>MONO% (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>MONO%</TEST_ADI>
+                  <ENTEG_KODU>90162108</ENTEG_KODU>
+                  <ENTEG_KODU2>7</ENTEG_KODU2>
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>40</TEST_ID>
+                  <TEST_KISA_ADI>RBC</TEST_KISA_ADI>
+                  <TEST_ADI>RBC</TEST_ADI>
+                  <ENTEG_KODU>90162012</ENTEG_KODU>
+                  <ENTEG_KODU2>11</ENTEG_KODU2>
+                  <UNITE_ID>2</UNITE_ID>
+                  <UNITE_ADI>Hemogram</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>645</TEST_ID>
+                  <TEST_KISA_ADI>ValueHbA1c</TEST_KISA_ADI>
+                  <TEST_ADI>ValueHbA1c</TEST_ADI>
+                  <ENTEG_KODU>90469010</ENTEG_KODU>
+                  <ENTEG_KODU2>10</ENTEG_KODU2>
+                  <UNITE_ID>19</UNITE_ID>
+                  <UNITE_ADI>Evlilik Talasemi</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>115</TEST_ID>
+                  <TEST_KISA_ADI>Anti Toxoplazma  IgM</TEST_KISA_ADI>
+                  <TEST_ADI>Anti Toxoplazma IgM</TEST_ADI>
+                  <ENTEG_KODU>906910</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>58</TEST_ID>
+                  <TEST_KISA_ADI>Anti Hbs</TEST_KISA_ADI>
+                  <TEST_ADI>Anti Hbs</TEST_ADI>
+                  <ENTEG_KODU>906610</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>617</TEST_ID>
+                  <TEST_KISA_ADI>Anti HBs(Evl.]</TEST_KISA_ADI>
+                  <TEST_ADI>Anti HBs</TEST_ADI>
+                  <ENTEG_KODU>906620</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>8</UNITE_ID>
+                  <UNITE_ADI>Evlilik</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>652</TEST_ID>
+                  <TEST_KISA_ADI>Sifiliz Antikoru</TEST_KISA_ADI>
+                  <TEST_ADI>Sifiliz Antikoru</TEST_ADI>
+                  <ENTEG_KODU>906290</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>557</TEST_ID>
+                  <TEST_KISA_ADI>Not</TEST_KISA_ADI>
+                  <TEST_ADI>Not</TEST_ADI>
+                  <ENTEG_KODU>90469004</ENTEG_KODU>
+                  <ENTEG_KODU2>04</ENTEG_KODU2>
+                  <UNITE_ID>19</UNITE_ID>
+                  <UNITE_ADI>Evlilik Talasemi</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>554</TEST_ID>
+                  <TEST_KISA_ADI>HbF (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>HbF</TEST_ADI>
+                  <ENTEG_KODU>90469001</ENTEG_KODU>
+                  <ENTEG_KODU2>01</ENTEG_KODU2>
+                  <UNITE_ID>19</UNITE_ID>
+                  <UNITE_ADI>Evlilik Talasemi</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>556</TEST_ID>
+                  <TEST_KISA_ADI>HbA2 (Evl.)</TEST_KISA_ADI>
+                  <TEST_ADI>HbA2</TEST_ADI>
+                  <ENTEG_KODU>90469003</ENTEG_KODU>
+                  <ENTEG_KODU2>03</ENTEG_KODU2>
+                  <UNITE_ID>19</UNITE_ID>
+                  <UNITE_ADI>Evlilik Talasemi</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>539</TEST_ID>
+                  <TEST_KISA_ADI>HbA2</TEST_KISA_ADI>
+                  <TEST_ADI>HbA2</TEST_ADI>
+                  <ENTEG_KODU>90469103</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>17</UNITE_ID>
+                  <UNITE_ADI>Talasemi (HPLC)</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>629</TEST_ID>
+                  <TEST_KISA_ADI>E2</TEST_KISA_ADI>
+                  <TEST_ADI>E2</TEST_ADI>
+                  <ENTEG_KODU>901160</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>628</TEST_ID>
+                  <TEST_KISA_ADI>LH</TEST_KISA_ADI>
+                  <TEST_ADI>LH</TEST_ADI>
+                  <ENTEG_KODU>902410</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>112</TEST_ID>
+                  <TEST_KISA_ADI>PRL</TEST_KISA_ADI>
+                  <TEST_ADI>Prolaktin</TEST_ADI>
+                  <ENTEG_KODU>903210</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>3</UNITE_ID>
+                  <UNITE_ADI>Hormon</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>10</TEST_ID>
+                  <TEST_KISA_ADI>ALP</TEST_KISA_ADI>
+                  <TEST_ADI>ALP ( A.Fosfataz )</TEST_ADI>
+                  <ENTEG_KODU>900340</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+               <EntegKodlar>
+                  <TEST_ID>669</TEST_ID>
+                  <TEST_KISA_ADI>eGFR</TEST_KISA_ADI>
+                  <TEST_ADI>eGFR</TEST_ADI>
+                  <ENTEG_KODU>9022101</ENTEG_KODU>
+                  <ENTEG_KODU2 />
+                  <UNITE_ID>1</UNITE_ID>
+                  <UNITE_ADI>Biyokimya</UNITE_ADI>
+               </EntegKodlar>
+            </EntegKodArr>
+         </ALISEntegKodlariResult>
+      </ALISEntegKodlariResponse>
+   </soap:Body>
+</soap:Envelope>
